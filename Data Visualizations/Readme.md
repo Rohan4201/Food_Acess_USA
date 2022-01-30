@@ -1,4 +1,3 @@
-This folder contains the Data Visualisations created for the project.
 
 ## Description of the data visuals
 
